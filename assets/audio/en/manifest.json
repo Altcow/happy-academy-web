@@ -1,0 +1,2543 @@
+{
+  "generatedAt": "2026-11-10T18:51:43+08:00",
+  "files": {
+    "adv.all.01.intro": {
+      "bytes": 56016
+    },
+    "adv.all.01.title": {
+      "bytes": 22019
+    },
+    "adv.all.02.intro": {
+      "bytes": 57222
+    },
+    "adv.all.02.title": {
+      "bytes": 16255
+    },
+    "adv.all.03.intro": {
+      "bytes": 49432
+    },
+    "adv.all.03.title": {
+      "bytes": 15440
+    },
+    "adv.all.04.intro": {
+      "bytes": 54392
+    },
+    "adv.all.04.title": {
+      "bytes": 12120
+    },
+    "adv.all.05.intro": {
+      "bytes": 55453
+    },
+    "adv.all.05.title": {
+      "bytes": 12831
+    },
+    "adv.all.06.intro": {
+      "bytes": 52215
+    },
+    "adv.all.06.title": {
+      "bytes": 13095
+    },
+    "adv.all.07.intro": {
+      "bytes": 66371
+    },
+    "adv.all.07.title": {
+      "bytes": 26709
+    },
+    "adv.all.08.intro": {
+      "bytes": 61087
+    },
+    "adv.all.08.title": {
+      "bytes": 17012
+    },
+    "adv.all.09.intro": {
+      "bytes": 50636
+    },
+    "adv.all.09.title": {
+      "bytes": 14664
+    },
+    "adv.all.10.intro": {
+      "bytes": 56672
+    },
+    "adv.all.10.title": {
+      "bytes": 12887
+    },
+    "adv.all.11.intro": {
+      "bytes": 61099
+    },
+    "adv.all.11.title": {
+      "bytes": 12813
+    },
+    "adv.all.12.intro": {
+      "bytes": 55721
+    },
+    "adv.all.12.title": {
+      "bytes": 13003
+    },
+    "adv.all.13.intro": {
+      "bytes": 65192
+    },
+    "adv.all.13.title": {
+      "bytes": 24624
+    },
+    "adv.all.14.intro": {
+      "bytes": 58456
+    },
+    "adv.all.14.title": {
+      "bytes": 16797
+    },
+    "adv.all.15.intro": {
+      "bytes": 52050
+    },
+    "adv.all.15.title": {
+      "bytes": 14560
+    },
+    "adv.all.16.intro": {
+      "bytes": 54999
+    },
+    "adv.all.16.title": {
+      "bytes": 14136
+    },
+    "adv.all.17.intro": {
+      "bytes": 54490
+    },
+    "adv.all.17.title": {
+      "bytes": 13059
+    },
+    "adv.all.18.intro": {
+      "bytes": 60755
+    },
+    "adv.all.18.title": {
+      "bytes": 12968
+    },
+    "adv.all.l1.c1": {
+      "bytes": 36612
+    },
+    "adv.all.l1.c2": {
+      "bytes": 40636
+    },
+    "adv.all.l1.c3": {
+      "bytes": 45641
+    },
+    "adv.all.l1.intro": {
+      "bytes": 48022
+    },
+    "adv.all.l2.c1": {
+      "bytes": 45579
+    },
+    "adv.all.l2.c2": {
+      "bytes": 41473
+    },
+    "adv.all.l2.c3": {
+      "bytes": 45796
+    },
+    "adv.all.l2.c4": {
+      "bytes": 41047
+    },
+    "adv.all.l2.intro": {
+      "bytes": 49446
+    },
+    "adv.all.l3.c1": {
+      "bytes": 37023
+    },
+    "adv.all.l3.c2": {
+      "bytes": 36778
+    },
+    "adv.all.l3.c3": {
+      "bytes": 39866
+    },
+    "adv.all.l3.c4": {
+      "bytes": 34428
+    },
+    "adv.all.l3.intro": {
+      "bytes": 47056
+    },
+    "adv.hint.count_fingers": {
+      "bytes": 31251
+    },
+    "adv.hint.magic_e": {
+      "bytes": 36102
+    },
+    "adv.hint.say_slowly": {
+      "bytes": 17607
+    },
+    "adv.hint.two_letters": {
+      "bytes": 18615
+    },
+    "adv.long.01.intro": {
+      "bytes": 47518
+    },
+    "adv.long.01.title": {
+      "bytes": 13304
+    },
+    "adv.long.02.intro": {
+      "bytes": 39512
+    },
+    "adv.long.02.title": {
+      "bytes": 13179
+    },
+    "adv.long.03.intro": {
+      "bytes": 52114
+    },
+    "adv.long.03.title": {
+      "bytes": 15740
+    },
+    "adv.long.04.intro": {
+      "bytes": 55842
+    },
+    "adv.long.04.title": {
+      "bytes": 13716
+    },
+    "adv.long.05.intro": {
+      "bytes": 51438
+    },
+    "adv.long.05.title": {
+      "bytes": 13395
+    },
+    "adv.long.06.intro": {
+      "bytes": 52494
+    },
+    "adv.long.06.title": {
+      "bytes": 16418
+    },
+    "adv.long.07.intro": {
+      "bytes": 52560
+    },
+    "adv.long.07.title": {
+      "bytes": 15938
+    },
+    "adv.long.08.intro": {
+      "bytes": 54465
+    },
+    "adv.long.08.title": {
+      "bytes": 19181
+    },
+    "adv.long.09.intro": {
+      "bytes": 57103
+    },
+    "adv.long.09.title": {
+      "bytes": 16383
+    },
+    "adv.long.10.intro": {
+      "bytes": 53647
+    },
+    "adv.long.10.title": {
+      "bytes": 15459
+    },
+    "adv.long.l1.c1": {
+      "bytes": 44551
+    },
+    "adv.long.l1.c2": {
+      "bytes": 42613
+    },
+    "adv.long.l1.c3": {
+      "bytes": 40346
+    },
+    "adv.long.l1.intro": {
+      "bytes": 49664
+    },
+    "adv.long.l2.c1": {
+      "bytes": 44820
+    },
+    "adv.long.l2.c2": {
+      "bytes": 40763
+    },
+    "adv.long.l2.c3": {
+      "bytes": 40701
+    },
+    "adv.long.l2.intro": {
+      "bytes": 45333
+    },
+    "adv.magic.01.intro": {
+      "bytes": 33685
+    },
+    "adv.magic.01.title": {
+      "bytes": 13680
+    },
+    "adv.magic.02.intro": {
+      "bytes": 35165
+    },
+    "adv.magic.02.title": {
+      "bytes": 13857
+    },
+    "adv.magic.03.intro": {
+      "bytes": 37789
+    },
+    "adv.magic.03.title": {
+      "bytes": 15679
+    },
+    "adv.magic.04.intro": {
+      "bytes": 42599
+    },
+    "adv.magic.04.title": {
+      "bytes": 15449
+    },
+    "adv.magic.05.intro": {
+      "bytes": 39092
+    },
+    "adv.magic.05.title": {
+      "bytes": 15725
+    },
+    "adv.magic.06.intro": {
+      "bytes": 42179
+    },
+    "adv.magic.06.title": {
+      "bytes": 15322
+    },
+    "adv.magic.07.intro": {
+      "bytes": 43913
+    },
+    "adv.magic.07.title": {
+      "bytes": 19122
+    },
+    "adv.magic.08.intro": {
+      "bytes": 43531
+    },
+    "adv.magic.08.title": {
+      "bytes": 14836
+    },
+    "adv.magic.09.intro": {
+      "bytes": 42382
+    },
+    "adv.magic.09.title": {
+      "bytes": 13532
+    },
+    "adv.magic.10.intro": {
+      "bytes": 44560
+    },
+    "adv.magic.10.title": {
+      "bytes": 13298
+    },
+    "adv.magic.11.intro": {
+      "bytes": 41837
+    },
+    "adv.magic.11.title": {
+      "bytes": 16433
+    },
+    "adv.magic.12.intro": {
+      "bytes": 39732
+    },
+    "adv.magic.12.title": {
+      "bytes": 12567
+    },
+    "adv.magic.13.intro": {
+      "bytes": 57533
+    },
+    "adv.magic.13.title": {
+      "bytes": 17220
+    },
+    "adv.magic.14.intro": {
+      "bytes": 42876
+    },
+    "adv.magic.14.title": {
+      "bytes": 13674
+    },
+    "adv.magic.15.intro": {
+      "bytes": 39622
+    },
+    "adv.magic.15.title": {
+      "bytes": 12659
+    },
+    "adv.magic.16.intro": {
+      "bytes": 46293
+    },
+    "adv.magic.16.title": {
+      "bytes": 15186
+    },
+    "adv.magic.17.intro": {
+      "bytes": 46104
+    },
+    "adv.magic.17.title": {
+      "bytes": 13903
+    },
+    "adv.magic.18.intro": {
+      "bytes": 41162
+    },
+    "adv.magic.18.title": {
+      "bytes": 21446
+    },
+    "adv.magic.19.intro": {
+      "bytes": 47721
+    },
+    "adv.magic.19.title": {
+      "bytes": 14197
+    },
+    "adv.magic.20.intro": {
+      "bytes": 47692
+    },
+    "adv.magic.20.title": {
+      "bytes": 17242
+    },
+    "adv.magic.21.intro": {
+      "bytes": 36817
+    },
+    "adv.magic.21.title": {
+      "bytes": 12559
+    },
+    "adv.magic.22.intro": {
+      "bytes": 44223
+    },
+    "adv.magic.22.title": {
+      "bytes": 17438
+    },
+    "adv.magic.23.intro": {
+      "bytes": 43206
+    },
+    "adv.magic.23.title": {
+      "bytes": 20756
+    },
+    "adv.magic.l1.c1": {
+      "bytes": 40217
+    },
+    "adv.magic.l1.c2": {
+      "bytes": 39921
+    },
+    "adv.magic.l1.c3": {
+      "bytes": 39388
+    },
+    "adv.magic.l1.c4": {
+      "bytes": 39656
+    },
+    "adv.magic.l1.intro": {
+      "bytes": 45580
+    },
+    "adv.magic.l2.c1": {
+      "bytes": 39994
+    },
+    "adv.magic.l2.c2": {
+      "bytes": 39086
+    },
+    "adv.magic.l2.c3": {
+      "bytes": 49459
+    },
+    "adv.magic.l2.c4": {
+      "bytes": 39271
+    },
+    "adv.magic.l2.intro": {
+      "bytes": 52469
+    },
+    "adv.magic.l3.c1": {
+      "bytes": 35976
+    },
+    "adv.magic.l3.c2": {
+      "bytes": 38100
+    },
+    "adv.magic.l3.c3": {
+      "bytes": 37052
+    },
+    "adv.magic.l3.c4": {
+      "bytes": 40920
+    },
+    "adv.magic.l3.intro": {
+      "bytes": 53110
+    },
+    "adv.magic.l4.c1": {
+      "bytes": 39455
+    },
+    "adv.magic.l4.c2": {
+      "bytes": 37127
+    },
+    "adv.magic.l4.c3": {
+      "bytes": 35232
+    },
+    "adv.magic.l4.c4": {
+      "bytes": 37573
+    },
+    "adv.magic.l4.intro": {
+      "bytes": 46850
+    },
+    "adv.more.01.intro": {
+      "bytes": 66762
+    },
+    "adv.more.01.title": {
+      "bytes": 25409
+    },
+    "adv.more.02.intro": {
+      "bytes": 44529
+    },
+    "adv.more.02.title": {
+      "bytes": 20388
+    },
+    "adv.more.03.intro": {
+      "bytes": 50888
+    },
+    "adv.more.03.title": {
+      "bytes": 19628
+    },
+    "adv.more.04.intro": {
+      "bytes": 53386
+    },
+    "adv.more.04.title": {
+      "bytes": 21319
+    },
+    "adv.more.05.intro": {
+      "bytes": 51142
+    },
+    "adv.more.05.title": {
+      "bytes": 15427
+    },
+    "adv.more.06.intro": {
+      "bytes": 51199
+    },
+    "adv.more.06.title": {
+      "bytes": 15268
+    },
+    "adv.more.07.intro": {
+      "bytes": 67812
+    },
+    "adv.more.07.title": {
+      "bytes": 26432
+    },
+    "adv.more.08.intro": {
+      "bytes": 45565
+    },
+    "adv.more.08.title": {
+      "bytes": 15629
+    },
+    "adv.more.09.intro": {
+      "bytes": 48271
+    },
+    "adv.more.09.title": {
+      "bytes": 24027
+    },
+    "adv.more.10.intro": {
+      "bytes": 50486
+    },
+    "adv.more.10.title": {
+      "bytes": 20119
+    },
+    "adv.more.11.intro": {
+      "bytes": 60088
+    },
+    "adv.more.11.title": {
+      "bytes": 14576
+    },
+    "adv.more.12.intro": {
+      "bytes": 52508
+    },
+    "adv.more.12.title": {
+      "bytes": 13918
+    },
+    "adv.more.l1.c1": {
+      "bytes": 35361
+    },
+    "adv.more.l1.c2": {
+      "bytes": 35918
+    },
+    "adv.more.l1.c3": {
+      "bytes": 37554
+    },
+    "adv.more.l1.c4": {
+      "bytes": 40850
+    },
+    "adv.more.l1.c5": {
+      "bytes": 38725
+    },
+    "adv.more.l1.intro": {
+      "bytes": 47992
+    },
+    "adv.more.l2.c1": {
+      "bytes": 41257
+    },
+    "adv.more.l2.c2": {
+      "bytes": 48749
+    },
+    "adv.more.l2.c3": {
+      "bytes": 37614
+    },
+    "adv.more.l2.c4": {
+      "bytes": 46619
+    },
+    "adv.more.l2.c5": {
+      "bytes": 35622
+    },
+    "adv.more.l2.intro": {
+      "bytes": 50504
+    },
+    "adv.name.a": {
+      "bytes": 5964
+    },
+    "adv.name.e": {
+      "bytes": 7305
+    },
+    "adv.name.i": {
+      "bytes": 6470
+    },
+    "adv.name.o": {
+      "bytes": 7275
+    },
+    "adv.name.u": {
+      "bytes": 7622
+    },
+    "adv.q.add_magic_e": {
+      "bytes": 23800
+    },
+    "adv.q.how_many_sounds": {
+      "bytes": 20224
+    },
+    "adv.q.tap_each_sound": {
+      "bytes": 23463
+    },
+    "adv.q.which_sound_in": {
+      "bytes": 19790
+    },
+    "adv.q.which_team": {
+      "bytes": 25640
+    },
+    "adv.q.which_word": {
+      "bytes": 15135
+    },
+    "adv.teach.blend_fast": {
+      "bytes": 35049
+    },
+    "adv.teach.count_sounds": {
+      "bytes": 22203
+    },
+    "adv.teach.magic_e": {
+      "bytes": 33268
+    },
+    "adv.teach.r_changes": {
+      "bytes": 23904
+    },
+    "adv.teach.same_sound": {
+      "bytes": 26020
+    },
+    "adv.teach.says_name": {
+      "bytes": 20009
+    },
+    "adv.teach.team": {
+      "bytes": 23702
+    },
+    "adv.teach.th_buzz": {
+      "bytes": 32052
+    },
+    "adv.teach.th_quiet": {
+      "bytes": 27074
+    },
+    "adv.teach.two_letters": {
+      "bytes": 24550
+    },
+    "adv.team.01.intro": {
+      "bytes": 46086
+    },
+    "adv.team.01.title": {
+      "bytes": 16836
+    },
+    "adv.team.02.intro": {
+      "bytes": 50442
+    },
+    "adv.team.02.title": {
+      "bytes": 12323
+    },
+    "adv.team.03.intro": {
+      "bytes": 40018
+    },
+    "adv.team.03.title": {
+      "bytes": 16497
+    },
+    "adv.team.04.intro": {
+      "bytes": 47966
+    },
+    "adv.team.04.title": {
+      "bytes": 13000
+    },
+    "adv.team.05.intro": {
+      "bytes": 42431
+    },
+    "adv.team.05.title": {
+      "bytes": 12464
+    },
+    "adv.team.06.intro": {
+      "bytes": 49194
+    },
+    "adv.team.06.title": {
+      "bytes": 15390
+    },
+    "adv.team.07.intro": {
+      "bytes": 46938
+    },
+    "adv.team.07.title": {
+      "bytes": 16746
+    },
+    "adv.team.08.intro": {
+      "bytes": 44911
+    },
+    "adv.team.08.title": {
+      "bytes": 13806
+    },
+    "adv.team.09.intro": {
+      "bytes": 50009
+    },
+    "adv.team.09.title": {
+      "bytes": 17753
+    },
+    "adv.team.10.intro": {
+      "bytes": 47578
+    },
+    "adv.team.10.title": {
+      "bytes": 13401
+    },
+    "adv.team.11.intro": {
+      "bytes": 46497
+    },
+    "adv.team.11.title": {
+      "bytes": 15143
+    },
+    "adv.team.12.intro": {
+      "bytes": 48371
+    },
+    "adv.team.12.title": {
+      "bytes": 12534
+    },
+    "adv.team.l1.c1": {
+      "bytes": 51566
+    },
+    "adv.team.l1.c2": {
+      "bytes": 45634
+    },
+    "adv.team.l1.c3": {
+      "bytes": 41600
+    },
+    "adv.team.l1.c4": {
+      "bytes": 40721
+    },
+    "adv.team.l1.intro": {
+      "bytes": 50527
+    },
+    "adv.team.l2.c1": {
+      "bytes": 39059
+    },
+    "adv.team.l2.c2": {
+      "bytes": 47947
+    },
+    "adv.team.l2.c3": {
+      "bytes": 36224
+    },
+    "adv.team.l2.intro": {
+      "bytes": 49111
+    },
+    "adv.word.bag": {
+      "bytes": 9562
+    },
+    "adv.word.ball": {
+      "bytes": 9285
+    },
+    "adv.word.bath": {
+      "bytes": 9091
+    },
+    "adv.word.bed": {
+      "bytes": 5886
+    },
+    "adv.word.bee": {
+      "bytes": 8192
+    },
+    "adv.word.bell": {
+      "bytes": 8334
+    },
+    "adv.word.belt": {
+      "bytes": 7638
+    },
+    "adv.word.bench": {
+      "bytes": 9939
+    },
+    "adv.word.bike": {
+      "bytes": 9261
+    },
+    "adv.word.bird": {
+      "bytes": 7617
+    },
+    "adv.word.boat": {
+      "bytes": 8588
+    },
+    "adv.word.bone": {
+      "bytes": 8037
+    },
+    "adv.word.book": {
+      "bytes": 8112
+    },
+    "adv.word.boot": {
+      "bytes": 8295
+    },
+    "adv.word.box": {
+      "bytes": 9934
+    },
+    "adv.word.boy": {
+      "bytes": 7828
+    },
+    "adv.word.bug": {
+      "bytes": 8895
+    },
+    "adv.word.bus": {
+      "bytes": 8487
+    },
+    "adv.word.cake": {
+      "bytes": 8361
+    },
+    "adv.word.cap": {
+      "bytes": 8775
+    },
+    "adv.word.cape": {
+      "bytes": 8443
+    },
+    "adv.word.car": {
+      "bytes": 8681
+    },
+    "adv.word.cat": {
+      "bytes": 8423
+    },
+    "adv.word.chain": {
+      "bytes": 8283
+    },
+    "adv.word.chin": {
+      "bytes": 7930
+    },
+    "adv.word.chip": {
+      "bytes": 7785
+    },
+    "adv.word.cloud": {
+      "bytes": 8777
+    },
+    "adv.word.coat": {
+      "bytes": 8504
+    },
+    "adv.word.coin": {
+      "bytes": 8649
+    },
+    "adv.word.corn": {
+      "bytes": 9385
+    },
+    "adv.word.cow": {
+      "bytes": 8177
+    },
+    "adv.word.crab": {
+      "bytes": 10298
+    },
+    "adv.word.crown": {
+      "bytes": 9473
+    },
+    "adv.word.cube": {
+      "bytes": 9748
+    },
+    "adv.word.cup": {
+      "bytes": 7035
+    },
+    "adv.word.dig": {
+      "bytes": 8301
+    },
+    "adv.word.dish": {
+      "bytes": 8968
+    },
+    "adv.word.dog": {
+      "bytes": 8861
+    },
+    "adv.word.doll": {
+      "bytes": 8256
+    },
+    "adv.word.drum": {
+      "bytes": 8632
+    },
+    "adv.word.duck": {
+      "bytes": 8421
+    },
+    "adv.word.egg": {
+      "bytes": 8246
+    },
+    "adv.word.fan": {
+      "bytes": 8980
+    },
+    "adv.word.feet": {
+      "bytes": 8579
+    },
+    "adv.word.fig": {
+      "bytes": 9035
+    },
+    "adv.word.fish": {
+      "bytes": 9091
+    },
+    "adv.word.flag": {
+      "bytes": 9858
+    },
+    "adv.word.foot": {
+      "bytes": 8219
+    },
+    "adv.word.fork": {
+      "bytes": 9061
+    },
+    "adv.word.fox": {
+      "bytes": 9878
+    },
+    "adv.word.frog": {
+      "bytes": 6871
+    },
+    "adv.word.gate": {
+      "bytes": 8142
+    },
+    "adv.word.girl": {
+      "bytes": 6387
+    },
+    "adv.word.goat": {
+      "bytes": 8616
+    },
+    "adv.word.hand": {
+      "bytes": 9699
+    },
+    "adv.word.hat": {
+      "bytes": 8321
+    },
+    "adv.word.hen": {
+      "bytes": 8340
+    },
+    "adv.word.hill": {
+      "bytes": 8316
+    },
+    "adv.word.hook": {
+      "bytes": 8285
+    },
+    "adv.word.horse": {
+      "bytes": 8817
+    },
+    "adv.word.hug": {
+      "bytes": 8286
+    },
+    "adv.word.jam": {
+      "bytes": 8473
+    },
+    "adv.word.jar": {
+      "bytes": 8230
+    },
+    "adv.word.jet": {
+      "bytes": 8015
+    },
+    "adv.word.jug": {
+      "bytes": 9003
+    },
+    "adv.word.king": {
+      "bytes": 8189
+    },
+    "adv.word.kiss": {
+      "bytes": 8810
+    },
+    "adv.word.kite": {
+      "bytes": 7979
+    },
+    "adv.word.lamp": {
+      "bytes": 8385
+    },
+    "adv.word.leaf": {
+      "bytes": 8445
+    },
+    "adv.word.leg": {
+      "bytes": 9098
+    },
+    "adv.word.lid": {
+      "bytes": 8378
+    },
+    "adv.word.light": {
+      "bytes": 9047
+    },
+    "adv.word.lip": {
+      "bytes": 8108
+    },
+    "adv.word.log": {
+      "bytes": 9741
+    },
+    "adv.word.mask": {
+      "bytes": 10499
+    },
+    "adv.word.milk": {
+      "bytes": 9025
+    },
+    "adv.word.mop": {
+      "bytes": 9161
+    },
+    "adv.word.moth": {
+      "bytes": 8932
+    },
+    "adv.word.mouth": {
+      "bytes": 9506
+    },
+    "adv.word.net": {
+      "bytes": 8823
+    },
+    "adv.word.nut": {
+      "bytes": 9045
+    },
+    "adv.word.octopus": {
+      "bytes": 11836
+    },
+    "adv.word.owl": {
+      "bytes": 8541
+    },
+    "adv.word.path": {
+      "bytes": 8961
+    },
+    "adv.word.pine": {
+      "bytes": 9147
+    },
+    "adv.word.pink": {
+      "bytes": 7641
+    },
+    "adv.word.plant": {
+      "bytes": 9197
+    },
+    "adv.word.plum": {
+      "bytes": 8359
+    },
+    "adv.word.pot": {
+      "bytes": 8703
+    },
+    "adv.word.queen": {
+      "bytes": 9096
+    },
+    "adv.word.quilt": {
+      "bytes": 8687
+    },
+    "adv.word.rabbit": {
+      "bytes": 11103
+    },
+    "adv.word.rain": {
+      "bytes": 9417
+    },
+    "adv.word.ring": {
+      "bytes": 9172
+    },
+    "adv.word.rock": {
+      "bytes": 9056
+    },
+    "adv.word.roof": {
+      "bytes": 8049
+    },
+    "adv.word.rope": {
+      "bytes": 8846
+    },
+    "adv.word.rose": {
+      "bytes": 10186
+    },
+    "adv.word.rug": {
+      "bytes": 8808
+    },
+    "adv.word.run": {
+      "bytes": 9237
+    },
+    "adv.word.scrub": {
+      "bytes": 10064
+    },
+    "adv.word.shark": {
+      "bytes": 9315
+    },
+    "adv.word.sheep": {
+      "bytes": 7939
+    },
+    "adv.word.shell": {
+      "bytes": 7384
+    },
+    "adv.word.ship": {
+      "bytes": 7507
+    },
+    "adv.word.shirt": {
+      "bytes": 9233
+    },
+    "adv.word.shop": {
+      "bytes": 8206
+    },
+    "adv.word.shrimp": {
+      "bytes": 9728
+    },
+    "adv.word.sing": {
+      "bytes": 8880
+    },
+    "adv.word.sink": {
+      "bytes": 8412
+    },
+    "adv.word.skunk": {
+      "bytes": 9354
+    },
+    "adv.word.sled": {
+      "bytes": 9176
+    },
+    "adv.word.snail": {
+      "bytes": 9419
+    },
+    "adv.word.soap": {
+      "bytes": 8694
+    },
+    "adv.word.splashing": {
+      "bytes": 12740
+    },
+    "adv.word.splat": {
+      "bytes": 10257
+    },
+    "adv.word.spoon": {
+      "bytes": 9461
+    },
+    "adv.word.sprint": {
+      "bytes": 10538
+    },
+    "adv.word.stamp": {
+      "bytes": 9384
+    },
+    "adv.word.stamping": {
+      "bytes": 11678
+    },
+    "adv.word.star": {
+      "bytes": 9449
+    },
+    "adv.word.string": {
+      "bytes": 10462
+    },
+    "adv.word.strong": {
+      "bytes": 10501
+    },
+    "adv.word.tail": {
+      "bytes": 9344
+    },
+    "adv.word.that": {
+      "bytes": 8161
+    },
+    "adv.word.then": {
+      "bytes": 9013
+    },
+    "adv.word.this": {
+      "bytes": 8751
+    },
+    "adv.word.top": {
+      "bytes": 8431
+    },
+    "adv.word.toy": {
+      "bytes": 8497
+    },
+    "adv.word.tray": {
+      "bytes": 9006
+    },
+    "adv.word.tree": {
+      "bytes": 8754
+    },
+    "adv.word.tub": {
+      "bytes": 8955
+    },
+    "adv.word.tube": {
+      "bytes": 8784
+    },
+    "adv.word.umbrella": {
+      "bytes": 10488
+    },
+    "adv.word.van": {
+      "bytes": 8410
+    },
+    "adv.word.volcano": {
+      "bytes": 11562
+    },
+    "adv.word.web": {
+      "bytes": 8701
+    },
+    "adv.word.whale": {
+      "bytes": 9418
+    },
+    "adv.word.wheel": {
+      "bytes": 8627
+    },
+    "adv.word.wig": {
+      "bytes": 8898
+    },
+    "adv.word.wing": {
+      "bytes": 9317
+    },
+    "adv.word.wink": {
+      "bytes": 8798
+    },
+    "adv.word.yak": {
+      "bytes": 8771
+    },
+    "adv.word.yell": {
+      "bytes": 7795
+    },
+    "adv.word.yoyo": {
+      "bytes": 9491
+    },
+    "adv.word.zip": {
+      "bytes": 8374
+    },
+    "fb.break.1": {
+      "bytes": 26455
+    },
+    "fb.break.2": {
+      "bytes": 19015
+    },
+    "fb.break.3": {
+      "bytes": 27550
+    },
+    "fb.correct.1": {
+      "bytes": 13440
+    },
+    "fb.correct.2": {
+      "bytes": 12673
+    },
+    "fb.correct.3": {
+      "bytes": 13851
+    },
+    "fb.correct.4": {
+      "bytes": 12846
+    },
+    "fb.correct.5": {
+      "bytes": 16052
+    },
+    "fb.correct.6": {
+      "bytes": 14659
+    },
+    "fb.correct.7": {
+      "bytes": 14851
+    },
+    "fb.correct.8": {
+      "bytes": 21480
+    },
+    "fb.hint.listen": {
+      "bytes": 12673
+    },
+    "fb.hint.look": {
+      "bytes": 10609
+    },
+    "fb.hint.try": {
+      "bytes": 11644
+    },
+    "fb.hint.watch": {
+      "bytes": 11318
+    },
+    "fb.level_done.1": {
+      "bytes": 15748
+    },
+    "fb.level_done.2": {
+      "bytes": 14587
+    },
+    "fb.level_done.3": {
+      "bytes": 22949
+    },
+    "fb.level_done.4": {
+      "bytes": 16336
+    },
+    "fb.retry.1": {
+      "bytes": 16279
+    },
+    "fb.retry.2": {
+      "bytes": 22362
+    },
+    "fb.retry.3": {
+      "bytes": 18329
+    },
+    "fb.retry.4": {
+      "bytes": 24281
+    },
+    "lang.blend.01.intro": {
+      "bytes": 54901
+    },
+    "lang.blend.01.title": {
+      "bytes": 15339
+    },
+    "lang.blend.02.intro": {
+      "bytes": 46932
+    },
+    "lang.blend.02.title": {
+      "bytes": 14101
+    },
+    "lang.blend.03.intro": {
+      "bytes": 47192
+    },
+    "lang.blend.03.title": {
+      "bytes": 15628
+    },
+    "lang.blend.l1.intro": {
+      "bytes": 45595
+    },
+    "lang.build.01.intro": {
+      "bytes": 49459
+    },
+    "lang.build.01.title": {
+      "bytes": 12492
+    },
+    "lang.build.02.intro": {
+      "bytes": 47089
+    },
+    "lang.build.02.title": {
+      "bytes": 16753
+    },
+    "lang.build.03.intro": {
+      "bytes": 45635
+    },
+    "lang.build.03.title": {
+      "bytes": 16180
+    },
+    "lang.build.04.intro": {
+      "bytes": 48585
+    },
+    "lang.build.04.title": {
+      "bytes": 17849
+    },
+    "lang.first.01.intro": {
+      "bytes": 56469
+    },
+    "lang.first.01.title": {
+      "bytes": 18257
+    },
+    "lang.first.02.intro": {
+      "bytes": 61704
+    },
+    "lang.first.02.title": {
+      "bytes": 20481
+    },
+    "lang.first.03.intro": {
+      "bytes": 43150
+    },
+    "lang.first.03.title": {
+      "bytes": 16937
+    },
+    "lang.first.04.intro": {
+      "bytes": 48259
+    },
+    "lang.first.04.title": {
+      "bytes": 16383
+    },
+    "lang.hint.first_sound": {
+      "bytes": 20436
+    },
+    "lang.hint.listen_again": {
+      "bytes": 16577
+    },
+    "lang.hint.middle_sound": {
+      "bytes": 21302
+    },
+    "lang.q.first_letter": {
+      "bytes": 26772
+    },
+    "lang.q.front_letter": {
+      "bytes": 20990
+    },
+    "lang.q.match_word": {
+      "bytes": 20723
+    },
+    "lang.q.middle_letter": {
+      "bytes": 21875
+    },
+    "lang.q.spell_word": {
+      "bytes": 24548
+    },
+    "lang.q.starts_with": {
+      "bytes": 23498
+    },
+    "lang.q.tap_letter": {
+      "bytes": 22160
+    },
+    "lang.q.which_letter": {
+      "bytes": 21232
+    },
+    "lang.q.which_picture": {
+      "bytes": 17603
+    },
+    "lang.read.01.intro": {
+      "bytes": 50555
+    },
+    "lang.read.01.title": {
+      "bytes": 13094
+    },
+    "lang.read.02.intro": {
+      "bytes": 55641
+    },
+    "lang.read.02.title": {
+      "bytes": 14691
+    },
+    "lang.snd.01.intro": {
+      "bytes": 60548
+    },
+    "lang.snd.01.title": {
+      "bytes": 17291
+    },
+    "lang.snd.02.intro": {
+      "bytes": 45552
+    },
+    "lang.snd.02.title": {
+      "bytes": 17223
+    },
+    "lang.snd.03.intro": {
+      "bytes": 46634
+    },
+    "lang.snd.03.title": {
+      "bytes": 18270
+    },
+    "lang.snd.04.intro": {
+      "bytes": 44940
+    },
+    "lang.snd.04.title": {
+      "bytes": 24607
+    },
+    "lang.snd.05.intro": {
+      "bytes": 49867
+    },
+    "lang.snd.05.title": {
+      "bytes": 11989
+    },
+    "lang.snd.06.intro": {
+      "bytes": 45240
+    },
+    "lang.snd.06.title": {
+      "bytes": 16148
+    },
+    "lang.snd.l1.intro": {
+      "bytes": 48841
+    },
+    "lang.snd.l2.intro": {
+      "bytes": 41576
+    },
+    "lang.snd.l3.intro": {
+      "bytes": 37217
+    },
+    "lang.teach.blend_listen": {
+      "bytes": 37875
+    },
+    "lang.teach.blend_together": {
+      "bytes": 32281
+    },
+    "lang.teach.letter_says": {
+      "bytes": 29440
+    },
+    "lang.topic.blend": {
+      "bytes": 10154
+    },
+    "lang.topic.build": {
+      "bytes": 12543
+    },
+    "lang.topic.first": {
+      "bytes": 13745
+    },
+    "lang.topic.read": {
+      "bytes": 12541
+    },
+    "lang.topic.snd": {
+      "bytes": 13591
+    },
+    "lang.word.ant": {
+      "bytes": 7772
+    },
+    "lang.word.apple": {
+      "bytes": 8697
+    },
+    "lang.word.igloo": {
+      "bytes": 8242
+    },
+    "lang.word.insect": {
+      "bytes": 11028
+    },
+    "lang.word.man": {
+      "bytes": 8442
+    },
+    "lang.word.map": {
+      "bytes": 9274
+    },
+    "lang.word.mat": {
+      "bytes": 8449
+    },
+    "lang.word.moon": {
+      "bytes": 8291
+    },
+    "lang.word.mouse": {
+      "bytes": 8651
+    },
+    "lang.word.nap": {
+      "bytes": 9595
+    },
+    "lang.word.nest": {
+      "bytes": 9737
+    },
+    "lang.word.nose": {
+      "bytes": 9286
+    },
+    "lang.word.pan": {
+      "bytes": 8682
+    },
+    "lang.word.pen": {
+      "bytes": 8201
+    },
+    "lang.word.pig": {
+      "bytes": 8752
+    },
+    "lang.word.pin": {
+      "bytes": 7529
+    },
+    "lang.word.sip": {
+      "bytes": 9265
+    },
+    "lang.word.sit": {
+      "bytes": 8991
+    },
+    "lang.word.sock": {
+      "bytes": 9748
+    },
+    "lang.word.sun": {
+      "bytes": 8404
+    },
+    "lang.word.tap": {
+      "bytes": 7779
+    },
+    "lang.word.tent": {
+      "bytes": 7615
+    },
+    "lang.word.tiger": {
+      "bytes": 9459
+    },
+    "lang.word.tin": {
+      "bytes": 7386
+    },
+    "map.adv.intro": {
+      "bytes": 37535
+    },
+    "map.adv.name": {
+      "bytes": 17422
+    },
+    "map.hoot.hi": {
+      "bytes": 26919
+    },
+    "map.intro": {
+      "bytes": 20600
+    },
+    "map.lang.intro": {
+      "bytes": 30630
+    },
+    "map.lang.name": {
+      "bytes": 16369
+    },
+    "map.locked.1": {
+      "bytes": 29246
+    },
+    "map.locked.2": {
+      "bytes": 25501
+    },
+    "map.math.intro": {
+      "bytes": 21900
+    },
+    "map.math.name": {
+      "bytes": 9641
+    },
+    "map.space.intro": {
+      "bytes": 21525
+    },
+    "map.space.name": {
+      "bytes": 12655
+    },
+    "map.zoo.intro": {
+      "bytes": 33090
+    },
+    "map.zoo.name": {
+      "bytes": 12425
+    },
+    "math.cage.01.intro": {
+      "bytes": 57264
+    },
+    "math.cage.01.title": {
+      "bytes": 16067
+    },
+    "math.cage.02.intro": {
+      "bytes": 64357
+    },
+    "math.cage.02.title": {
+      "bytes": 14506
+    },
+    "math.cage.03.intro": {
+      "bytes": 60250
+    },
+    "math.cage.03.title": {
+      "bytes": 13229
+    },
+    "math.cage.04.intro": {
+      "bytes": 55276
+    },
+    "math.cage.04.title": {
+      "bytes": 12175
+    },
+    "math.cage.05.intro": {
+      "bytes": 66106
+    },
+    "math.cage.05.title": {
+      "bytes": 13927
+    },
+    "math.cage.06.intro": {
+      "bytes": 60278
+    },
+    "math.cage.06.title": {
+      "bytes": 13620
+    },
+    "math.cage.07.intro": {
+      "bytes": 63313
+    },
+    "math.cage.07.title": {
+      "bytes": 17294
+    },
+    "math.cage.08.intro": {
+      "bytes": 53320
+    },
+    "math.cage.08.title": {
+      "bytes": 13549
+    },
+    "math.cage.09.intro": {
+      "bytes": 52031
+    },
+    "math.cage.09.title": {
+      "bytes": 14347
+    },
+    "math.cage.10.intro": {
+      "bytes": 59327
+    },
+    "math.cage.10.title": {
+      "bytes": 14078
+    },
+    "math.compare.01.intro": {
+      "bytes": 52052
+    },
+    "math.compare.01.title": {
+      "bytes": 12959
+    },
+    "math.compare.02.intro": {
+      "bytes": 62890
+    },
+    "math.compare.02.title": {
+      "bytes": 12212
+    },
+    "math.compare.03.intro": {
+      "bytes": 65485
+    },
+    "math.compare.03.title": {
+      "bytes": 14185
+    },
+    "math.compare.04.intro": {
+      "bytes": 48193
+    },
+    "math.compare.04.title": {
+      "bytes": 14961
+    },
+    "math.compare.05.intro": {
+      "bytes": 60469
+    },
+    "math.compare.05.title": {
+      "bytes": 15127
+    },
+    "math.compare.l1.intro": {
+      "bytes": 32661
+    },
+    "math.count.01.intro": {
+      "bytes": 65266
+    },
+    "math.count.01.title": {
+      "bytes": 10022
+    },
+    "math.count.02.intro": {
+      "bytes": 63047
+    },
+    "math.count.02.title": {
+      "bytes": 13024
+    },
+    "math.count.03.intro": {
+      "bytes": 48302
+    },
+    "math.count.03.title": {
+      "bytes": 12653
+    },
+    "math.count.04.intro": {
+      "bytes": 58728
+    },
+    "math.count.04.title": {
+      "bytes": 13037
+    },
+    "math.count.05.intro": {
+      "bytes": 54330
+    },
+    "math.count.05.title": {
+      "bytes": 10370
+    },
+    "math.count.06.intro": {
+      "bytes": 56214
+    },
+    "math.count.06.title": {
+      "bytes": 13238
+    },
+    "math.count.07.intro": {
+      "bytes": 55535
+    },
+    "math.count.07.title": {
+      "bytes": 13497
+    },
+    "math.count.08.intro": {
+      "bytes": 58020
+    },
+    "math.count.08.title": {
+      "bytes": 12630
+    },
+    "math.count.l1.intro": {
+      "bytes": 37999
+    },
+    "math.count.l2.intro": {
+      "bytes": 35519
+    },
+    "math.hint.legs_rule": {
+      "bytes": 36684
+    },
+    "math.hint.look_pattern": {
+      "bytes": 15918
+    },
+    "math.pattern.01.intro": {
+      "bytes": 53709
+    },
+    "math.pattern.01.title": {
+      "bytes": 14383
+    },
+    "math.pattern.02.intro": {
+      "bytes": 50252
+    },
+    "math.pattern.02.title": {
+      "bytes": 14721
+    },
+    "math.pattern.03.intro": {
+      "bytes": 54115
+    },
+    "math.pattern.03.title": {
+      "bytes": 12607
+    },
+    "math.pattern.04.intro": {
+      "bytes": 61061
+    },
+    "math.pattern.04.title": {
+      "bytes": 13416
+    },
+    "math.pattern.05.intro": {
+      "bytes": 58191
+    },
+    "math.pattern.05.title": {
+      "bytes": 12041
+    },
+    "math.pattern.06.intro": {
+      "bytes": 51801
+    },
+    "math.pattern.06.title": {
+      "bytes": 11946
+    },
+    "math.q.chicken_two_legs": {
+      "bytes": 19161
+    },
+    "math.q.fill_gap": {
+      "bytes": 18684
+    },
+    "math.q.find_odd": {
+      "bytes": 16242
+    },
+    "math.q.give_apple_1": {
+      "bytes": 18874
+    },
+    "math.q.give_apple_2": {
+      "bytes": 18276
+    },
+    "math.q.give_apple_3": {
+      "bytes": 19405
+    },
+    "math.q.give_apple_4": {
+      "bytes": 19380
+    },
+    "math.q.give_apple_5": {
+      "bytes": 19621
+    },
+    "math.q.give_apple_6": {
+      "bytes": 19711
+    },
+    "math.q.give_apple_7": {
+      "bytes": 19254
+    },
+    "math.q.give_apple_8": {
+      "bytes": 18285
+    },
+    "math.q.how_many": {
+      "bytes": 12188
+    },
+    "math.q.how_many_animals": {
+      "bytes": 16685
+    },
+    "math.q.how_many_legs": {
+      "bytes": 14136
+    },
+    "math.q.look_in_cage": {
+      "bytes": 17355
+    },
+    "math.q.make_cage": {
+      "bytes": 15798
+    },
+    "math.q.match_heads_legs": {
+      "bytes": 20496
+    },
+    "math.q.pick_some": {
+      "bytes": 23978
+    },
+    "math.q.put_1c_2r": {
+      "bytes": 31082
+    },
+    "math.q.put_1c_3r": {
+      "bytes": 31437
+    },
+    "math.q.put_2c_1r": {
+      "bytes": 30743
+    },
+    "math.q.put_2c_2r": {
+      "bytes": 30530
+    },
+    "math.q.put_3c": {
+      "bytes": 21316
+    },
+    "math.q.put_3r": {
+      "bytes": 20928
+    },
+    "math.q.put_any": {
+      "bytes": 20981
+    },
+    "math.q.rabbit_four_legs": {
+      "bytes": 20209
+    },
+    "math.q.same_rule": {
+      "bytes": 20237
+    },
+    "math.q.sort_big_small": {
+      "bytes": 19181
+    },
+    "math.q.sort_color": {
+      "bytes": 16236
+    },
+    "math.q.sort_kind": {
+      "bytes": 22266
+    },
+    "math.q.sort_shape": {
+      "bytes": 14099
+    },
+    "math.q.tap_count": {
+      "bytes": 14480
+    },
+    "math.q.tap_each": {
+      "bytes": 15188
+    },
+    "math.q.what_inside": {
+      "bytes": 31032
+    },
+    "math.q.what_next": {
+      "bytes": 16078
+    },
+    "math.q.which_less": {
+      "bytes": 16291
+    },
+    "math.q.which_more": {
+      "bytes": 14230
+    },
+    "math.q.which_same": {
+      "bytes": 19840
+    },
+    "math.sort.01.intro": {
+      "bytes": 62939
+    },
+    "math.sort.01.title": {
+      "bytes": 14643
+    },
+    "math.sort.02.intro": {
+      "bytes": 57548
+    },
+    "math.sort.02.title": {
+      "bytes": 14136
+    },
+    "math.sort.03.intro": {
+      "bytes": 62346
+    },
+    "math.sort.03.title": {
+      "bytes": 14515
+    },
+    "math.sort.04.intro": {
+      "bytes": 62411
+    },
+    "math.sort.04.title": {
+      "bytes": 14415
+    },
+    "math.sort.05.intro": {
+      "bytes": 59326
+    },
+    "math.sort.05.title": {
+      "bytes": 13681
+    },
+    "math.sort.06.intro": {
+      "bytes": 60562
+    },
+    "math.sort.06.title": {
+      "bytes": 13072
+    },
+    "math.sort.l1.intro": {
+      "bytes": 48563
+    },
+    "math.sort.l2.intro": {
+      "bytes": 49626
+    },
+    "math.teach.big": {
+      "bytes": 31737
+    },
+    "math.teach.blue": {
+      "bytes": 27730
+    },
+    "math.teach.less": {
+      "bytes": 37030
+    },
+    "math.teach.more": {
+      "bytes": 34214
+    },
+    "math.teach.num_1": {
+      "bytes": 28684
+    },
+    "math.teach.num_10": {
+      "bytes": 29718
+    },
+    "math.teach.num_2": {
+      "bytes": 30182
+    },
+    "math.teach.num_3": {
+      "bytes": 28928
+    },
+    "math.teach.num_4": {
+      "bytes": 28356
+    },
+    "math.teach.num_5": {
+      "bytes": 29835
+    },
+    "math.teach.num_6": {
+      "bytes": 27982
+    },
+    "math.teach.num_7": {
+      "bytes": 29819
+    },
+    "math.teach.num_8": {
+      "bytes": 29048
+    },
+    "math.teach.num_9": {
+      "bytes": 29783
+    },
+    "math.teach.red": {
+      "bytes": 26663
+    },
+    "math.teach.small": {
+      "bytes": 29822
+    },
+    "math.teach.yellow": {
+      "bytes": 29287
+    },
+    "math.topic.cage": {
+      "bytes": 16640
+    },
+    "math.topic.compare": {
+      "bytes": 9938
+    },
+    "math.topic.count": {
+      "bytes": 8451
+    },
+    "math.topic.pattern": {
+      "bytes": 11174
+    },
+    "math.topic.sort": {
+      "bytes": 8883
+    },
+    "math.word.animals": {
+      "bytes": 11181
+    },
+    "math.word.big": {
+      "bytes": 8656
+    },
+    "math.word.blue": {
+      "bytes": 8636
+    },
+    "math.word.circle": {
+      "bytes": 10451
+    },
+    "math.word.food": {
+      "bytes": 9321
+    },
+    "math.word.red": {
+      "bytes": 8446
+    },
+    "math.word.small": {
+      "bytes": 8988
+    },
+    "math.word.triangle": {
+      "bytes": 11659
+    },
+    "math.word.yellow": {
+      "bytes": 8852
+    },
+    "num.1": {
+      "bytes": 7440
+    },
+    "num.10": {
+      "bytes": 7816
+    },
+    "num.11": {
+      "bytes": 9755
+    },
+    "num.12": {
+      "bytes": 9683
+    },
+    "num.13": {
+      "bytes": 12391
+    },
+    "num.14": {
+      "bytes": 12291
+    },
+    "num.15": {
+      "bytes": 11329
+    },
+    "num.16": {
+      "bytes": 12895
+    },
+    "num.17": {
+      "bytes": 13372
+    },
+    "num.18": {
+      "bytes": 11358
+    },
+    "num.19": {
+      "bytes": 11419
+    },
+    "num.2": {
+      "bytes": 7907
+    },
+    "num.20": {
+      "bytes": 10606
+    },
+    "num.3": {
+      "bytes": 8644
+    },
+    "num.4": {
+      "bytes": 8778
+    },
+    "num.5": {
+      "bytes": 10180
+    },
+    "num.6": {
+      "bytes": 9001
+    },
+    "num.7": {
+      "bytes": 9806
+    },
+    "num.8": {
+      "bytes": 7715
+    },
+    "num.9": {
+      "bytes": 8653
+    },
+    "phx.t": {
+      "bytes": 2084
+    },
+    "space.done.arrow": {
+      "bytes": 13995
+    },
+    "space.done.bear": {
+      "bytes": 11845
+    },
+    "space.done.bigsquare": {
+      "bytes": 15225
+    },
+    "space.done.boat": {
+      "bytes": 11948
+    },
+    "space.done.cat": {
+      "bytes": 13915
+    },
+    "space.done.chicken": {
+      "bytes": 13491
+    },
+    "space.done.dog": {
+      "bytes": 13440
+    },
+    "space.done.fish": {
+      "bytes": 12856
+    },
+    "space.done.fox": {
+      "bytes": 12933
+    },
+    "space.done.house": {
+      "bytes": 12729
+    },
+    "space.done.pig": {
+      "bytes": 12425
+    },
+    "space.done.rabbit": {
+      "bytes": 13524
+    },
+    "space.done.square": {
+      "bytes": 13679
+    },
+    "space.done.tree": {
+      "bytes": 12594
+    },
+    "space.fig.arrow": {
+      "bytes": 8060
+    },
+    "space.fig.bigsquare": {
+      "bytes": 12399
+    },
+    "space.fig.boat": {
+      "bytes": 8363
+    },
+    "space.fig.cat": {
+      "bytes": 7155
+    },
+    "space.fig.fish": {
+      "bytes": 8456
+    },
+    "space.fig.fox": {
+      "bytes": 9859
+    },
+    "space.fig.house": {
+      "bytes": 8690
+    },
+    "space.fig.square": {
+      "bytes": 9564
+    },
+    "space.fig.tree": {
+      "bytes": 8856
+    },
+    "space.pos.behind": {
+      "bytes": 10845
+    },
+    "space.pos.front": {
+      "bytes": 11404
+    },
+    "space.pos.in": {
+      "bytes": 7832
+    },
+    "space.pos.next": {
+      "bytes": 11096
+    },
+    "space.pos.on": {
+      "bytes": 8080
+    },
+    "space.pos.under": {
+      "bytes": 8688
+    },
+    "space.position.01.intro": {
+      "bytes": 52335
+    },
+    "space.position.01.title": {
+      "bytes": 11911
+    },
+    "space.position.02.intro": {
+      "bytes": 50884
+    },
+    "space.position.02.title": {
+      "bytes": 9886
+    },
+    "space.position.03.intro": {
+      "bytes": 61473
+    },
+    "space.position.03.title": {
+      "bytes": 19359
+    },
+    "space.position.04.intro": {
+      "bytes": 56569
+    },
+    "space.position.04.title": {
+      "bytes": 12326
+    },
+    "space.position.05.intro": {
+      "bytes": 60854
+    },
+    "space.position.05.title": {
+      "bytes": 16378
+    },
+    "space.position.l1.intro": {
+      "bytes": 43690
+    },
+    "space.position.l2.intro": {
+      "bytes": 43367
+    },
+    "space.position.l3.intro": {
+      "bytes": 37007
+    },
+    "space.puzzle.01.intro": {
+      "bytes": 54344
+    },
+    "space.puzzle.01.title": {
+      "bytes": 13906
+    },
+    "space.puzzle.02.intro": {
+      "bytes": 65916
+    },
+    "space.puzzle.02.title": {
+      "bytes": 13761
+    },
+    "space.puzzle.03.intro": {
+      "bytes": 52826
+    },
+    "space.puzzle.03.title": {
+      "bytes": 13448
+    },
+    "space.puzzle.04.intro": {
+      "bytes": 52280
+    },
+    "space.puzzle.04.title": {
+      "bytes": 14759
+    },
+    "space.puzzle.05.intro": {
+      "bytes": 64277
+    },
+    "space.puzzle.05.title": {
+      "bytes": 14270
+    },
+    "space.puzzle.06.intro": {
+      "bytes": 72594
+    },
+    "space.puzzle.06.title": {
+      "bytes": 12934
+    },
+    "space.q.fill_outline": {
+      "bytes": 22791
+    },
+    "space.q.fill_turn": {
+      "bytes": 24640
+    },
+    "space.q.find_circle": {
+      "bytes": 14803
+    },
+    "space.q.find_dog_behind_box": {
+      "bytes": 22785
+    },
+    "space.q.find_dog_front_box": {
+      "bytes": 23990
+    },
+    "space.q.find_dog_in_box": {
+      "bytes": 18979
+    },
+    "space.q.find_dog_next_box": {
+      "bytes": 21853
+    },
+    "space.q.find_dog_on_box": {
+      "bytes": 20505
+    },
+    "space.q.find_dog_under_table": {
+      "bytes": 21858
+    },
+    "space.q.find_heart": {
+      "bytes": 13331
+    },
+    "space.q.find_rectangle": {
+      "bytes": 16238
+    },
+    "space.q.find_square": {
+      "bytes": 13172
+    },
+    "space.q.find_star": {
+      "bytes": 12267
+    },
+    "space.q.find_triangle": {
+      "bytes": 16516
+    },
+    "space.q.make_picture": {
+      "bytes": 16928
+    },
+    "space.q.match_shapes": {
+      "bytes": 17971
+    },
+    "space.q.match_turned": {
+      "bytes": 18353
+    },
+    "space.q.put_dog_in_box": {
+      "bytes": 17069
+    },
+    "space.q.put_dog_next_box": {
+      "bytes": 20820
+    },
+    "space.q.put_dog_on_box": {
+      "bytes": 17663
+    },
+    "space.q.put_dog_on_table": {
+      "bytes": 18128
+    },
+    "space.q.put_dog_under_table": {
+      "bytes": 19192
+    },
+    "space.q.tap_shapes": {
+      "bytes": 14178
+    },
+    "space.shape.01.intro": {
+      "bytes": 61083
+    },
+    "space.shape.01.title": {
+      "bytes": 20356
+    },
+    "space.shape.02.intro": {
+      "bytes": 61583
+    },
+    "space.shape.02.title": {
+      "bytes": 14358
+    },
+    "space.shape.03.intro": {
+      "bytes": 60095
+    },
+    "space.shape.03.title": {
+      "bytes": 20915
+    },
+    "space.shape.04.intro": {
+      "bytes": 64830
+    },
+    "space.shape.04.title": {
+      "bytes": 12283
+    },
+    "space.shape.05.intro": {
+      "bytes": 49808
+    },
+    "space.shape.05.title": {
+      "bytes": 13066
+    },
+    "space.shape.06.intro": {
+      "bytes": 66475
+    },
+    "space.shape.06.title": {
+      "bytes": 12221
+    },
+    "space.shape.circle": {
+      "bytes": 10143
+    },
+    "space.shape.heart": {
+      "bytes": 9065
+    },
+    "space.shape.l1.intro": {
+      "bytes": 49038
+    },
+    "space.shape.l2.intro": {
+      "bytes": 48528
+    },
+    "space.shape.rectangle": {
+      "bytes": 12406
+    },
+    "space.shape.square": {
+      "bytes": 9763
+    },
+    "space.shape.star": {
+      "bytes": 9256
+    },
+    "space.shape.triangle": {
+      "bytes": 11475
+    },
+    "space.tangram.01.intro": {
+      "bytes": 52091
+    },
+    "space.tangram.01.title": {
+      "bytes": 14569
+    },
+    "space.tangram.02.intro": {
+      "bytes": 57651
+    },
+    "space.tangram.02.title": {
+      "bytes": 10498
+    },
+    "space.tangram.03.intro": {
+      "bytes": 48364
+    },
+    "space.tangram.03.title": {
+      "bytes": 13673
+    },
+    "space.tangram.04.intro": {
+      "bytes": 56097
+    },
+    "space.tangram.04.title": {
+      "bytes": 14673
+    },
+    "space.tangram.05.intro": {
+      "bytes": 54471
+    },
+    "space.tangram.05.title": {
+      "bytes": 12976
+    },
+    "space.tangram.06.intro": {
+      "bytes": 61933
+    },
+    "space.tangram.06.title": {
+      "bytes": 13676
+    },
+    "space.teach.behind": {
+      "bytes": 20651
+    },
+    "space.teach.circle": {
+      "bytes": 32366
+    },
+    "space.teach.front": {
+      "bytes": 24530
+    },
+    "space.teach.heart": {
+      "bytes": 31100
+    },
+    "space.teach.in": {
+      "bytes": 18046
+    },
+    "space.teach.next": {
+      "bytes": 21932
+    },
+    "space.teach.on": {
+      "bytes": 16971
+    },
+    "space.teach.rectangle": {
+      "bytes": 48661
+    },
+    "space.teach.square": {
+      "bytes": 34120
+    },
+    "space.teach.star": {
+      "bytes": 31179
+    },
+    "space.teach.triangle": {
+      "bytes": 33459
+    },
+    "space.teach.under": {
+      "bytes": 20477
+    },
+    "space.topic.position": {
+      "bytes": 11036
+    },
+    "space.topic.puzzle": {
+      "bytes": 10015
+    },
+    "space.topic.shape": {
+      "bytes": 9990
+    },
+    "space.topic.tangram": {
+      "bytes": 12050
+    },
+    "ui.btn.back": {
+      "bytes": 8071
+    },
+    "ui.btn.check": {
+      "bytes": 7515
+    },
+    "ui.btn.lets_play": {
+      "bytes": 12221
+    },
+    "ui.btn.map": {
+      "bytes": 14308
+    },
+    "ui.btn.next": {
+      "bytes": 13763
+    },
+    "ui.btn.play": {
+      "bytes": 8710
+    },
+    "ui.btn.replay": {
+      "bytes": 11998
+    },
+    "ui.lesson.ready": {
+      "bytes": 21283
+    },
+    "ui.lesson.tap_play": {
+      "bytes": 20640
+    },
+    "ui.lesson.your_turn": {
+      "bytes": 28212
+    },
+    "ui.title.name": {
+      "bytes": 16501
+    },
+    "ui.title.welcome": {
+      "bytes": 23512
+    },
+    "zoo.lion.01.intro": {
+      "bytes": 40553
+    },
+    "zoo.lion.01.title": {
+      "bytes": 16792
+    },
+    "zoo.monkey.01.intro": {
+      "bytes": 41855
+    },
+    "zoo.monkey.01.title": {
+      "bytes": 18066
+    },
+    "zoo.penguin.01.intro": {
+      "bytes": 38391
+    },
+    "zoo.penguin.01.title": {
+      "bytes": 18211
+    },
+    "zoo.q.tap_animals": {
+      "bytes": 21524
+    },
+    "zoo.teach.crocodile": {
+      "bytes": 16027
+    },
+    "zoo.teach.elephant": {
+      "bytes": 17052
+    },
+    "zoo.teach.giraffe": {
+      "bytes": 15830
+    },
+    "zoo.teach.hippo": {
+      "bytes": 14221
+    },
+    "zoo.teach.kangaroo": {
+      "bytes": 15822
+    },
+    "zoo.teach.lion": {
+      "bytes": 14519
+    },
+    "zoo.teach.monkey": {
+      "bytes": 15598
+    },
+    "zoo.teach.panda": {
+      "bytes": 15035
+    },
+    "zoo.teach.penguin": {
+      "bytes": 15216
+    },
+    "zoo.teach.snake": {
+      "bytes": 14689
+    },
+    "zoo.teach.tiger": {
+      "bytes": 15004
+    },
+    "zoo.teach.zebra": {
+      "bytes": 15046
+    },
+    "zoo.topic.lion": {
+      "bytes": 15027
+    },
+    "zoo.topic.monkey": {
+      "bytes": 14097
+    },
+    "zoo.topic.penguin": {
+      "bytes": 15923
+    },
+    "zoo.word.crocodile": {
+      "bytes": 11530
+    },
+    "zoo.word.elephant": {
+      "bytes": 10828
+    },
+    "zoo.word.giraffe": {
+      "bytes": 11092
+    },
+    "zoo.word.hippo": {
+      "bytes": 9215
+    },
+    "zoo.word.kangaroo": {
+      "bytes": 10927
+    },
+    "zoo.word.lion": {
+      "bytes": 9018
+    },
+    "zoo.word.monkey": {
+      "bytes": 10222
+    },
+    "zoo.word.panda": {
+      "bytes": 9796
+    },
+    "zoo.word.penguin": {
+      "bytes": 9627
+    },
+    "zoo.word.snake": {
+      "bytes": 10659
+    },
+    "zoo.word.tiger": {
+      "bytes": 8294
+    },
+    "zoo.word.zebra": {
+      "bytes": 10527
+    }
+  }
+}

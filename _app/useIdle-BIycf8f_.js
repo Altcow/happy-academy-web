@@ -1,0 +1,1 @@
+function e(e){let t=null,n=null;function r(){t!==null&&clearTimeout(t),n!==null&&clearTimeout(n),t=null,n=null}function i(){r();let i=e.scale??(e=>e);t=setTimeout(()=>{t=null,e.onShort()},i(e.shortMs??1e4)),n=setTimeout(()=>{n=null,e.onLong()},i(e.longMs??2e4))}return{start:i,reset:i,stop:r}}export{e as t};
