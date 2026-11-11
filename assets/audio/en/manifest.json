@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T13:24:17+08:00",
+  "generatedAt": "2026-11-11T14:16:10+08:00",
   "files": {
     "adv.all.01.intro": {
       "bytes": 56016
@@ -1540,6 +1540,69 @@
     "map.zoo.name": {
       "bytes": 12425
     },
+    "math.add.01.intro": {
+      "bytes": 46489
+    },
+    "math.add.01.title": {
+      "bytes": 12660
+    },
+    "math.add.02.intro": {
+      "bytes": 57070
+    },
+    "math.add.02.title": {
+      "bytes": 12814
+    },
+    "math.add.03.intro": {
+      "bytes": 61360
+    },
+    "math.add.03.title": {
+      "bytes": 15210
+    },
+    "math.add.04.intro": {
+      "bytes": 35136
+    },
+    "math.add.04.title": {
+      "bytes": 13521
+    },
+    "math.add.05.intro": {
+      "bytes": 52773
+    },
+    "math.add.05.title": {
+      "bytes": 13261
+    },
+    "math.add.06.intro": {
+      "bytes": 42375
+    },
+    "math.add.06.title": {
+      "bytes": 13590
+    },
+    "math.add.07.intro": {
+      "bytes": 48827
+    },
+    "math.add.07.title": {
+      "bytes": 11894
+    },
+    "math.add.08.intro": {
+      "bytes": 43374
+    },
+    "math.add.08.title": {
+      "bytes": 12216
+    },
+    "math.add.09.intro": {
+      "bytes": 48095
+    },
+    "math.add.09.title": {
+      "bytes": 14094
+    },
+    "math.add.10.intro": {
+      "bytes": 50150
+    },
+    "math.add.10.title": {
+      "bytes": 15127
+    },
+    "math.add.l1.intro": {
+      "bytes": 51665
+    },
     "math.cage.01.intro": {
       "bytes": 57264
     },
@@ -1729,6 +1792,213 @@
     "math.pattern.06.title": {
       "bytes": 11946
     },
+    "math.q.add_hint": {
+      "bytes": 30572
+    },
+    "math.q.add_how_many": {
+      "bytes": 24401
+    },
+    "math.q.add_left_banana_1": {
+      "bytes": 24141
+    },
+    "math.q.add_left_banana_2": {
+      "bytes": 25671
+    },
+    "math.q.add_left_banana_3": {
+      "bytes": 25654
+    },
+    "math.q.add_left_banana_4": {
+      "bytes": 25472
+    },
+    "math.q.add_left_banana_5": {
+      "bytes": 27221
+    },
+    "math.q.add_left_cherry_3": {
+      "bytes": 24606
+    },
+    "math.q.add_left_cherry_4": {
+      "bytes": 25157
+    },
+    "math.q.add_left_dragonfruit_1": {
+      "bytes": 28386
+    },
+    "math.q.add_left_dragonfruit_2": {
+      "bytes": 28613
+    },
+    "math.q.add_left_dragonfruit_3": {
+      "bytes": 29548
+    },
+    "math.q.add_left_dragonfruit_4": {
+      "bytes": 29992
+    },
+    "math.q.add_left_dragonfruit_5": {
+      "bytes": 30795
+    },
+    "math.q.add_left_grape_1": {
+      "bytes": 23758
+    },
+    "math.q.add_left_grape_4": {
+      "bytes": 25681
+    },
+    "math.q.add_left_grape_5": {
+      "bytes": 24613
+    },
+    "math.q.add_left_mango_1": {
+      "bytes": 23511
+    },
+    "math.q.add_left_mango_2": {
+      "bytes": 25768
+    },
+    "math.q.add_left_mango_3": {
+      "bytes": 26463
+    },
+    "math.q.add_left_mango_4": {
+      "bytes": 27066
+    },
+    "math.q.add_left_mango_5": {
+      "bytes": 27366
+    },
+    "math.q.add_left_orange_1": {
+      "bytes": 23112
+    },
+    "math.q.add_left_orange_2": {
+      "bytes": 23865
+    },
+    "math.q.add_left_orange_4": {
+      "bytes": 25706
+    },
+    "math.q.add_left_pear_1": {
+      "bytes": 21681
+    },
+    "math.q.add_left_pear_2": {
+      "bytes": 23849
+    },
+    "math.q.add_left_pineapple_2": {
+      "bytes": 25282
+    },
+    "math.q.add_left_pineapple_3": {
+      "bytes": 26850
+    },
+    "math.q.add_left_pineapple_4": {
+      "bytes": 27883
+    },
+    "math.q.add_left_pineapple_5": {
+      "bytes": 27079
+    },
+    "math.q.add_left_strawberry_1": {
+      "bytes": 26373
+    },
+    "math.q.add_left_strawberry_3": {
+      "bytes": 27370
+    },
+    "math.q.add_left_watermelon_1": {
+      "bytes": 26045
+    },
+    "math.q.add_left_watermelon_2": {
+      "bytes": 27686
+    },
+    "math.q.add_left_watermelon_3": {
+      "bytes": 26990
+    },
+    "math.q.add_left_watermelon_4": {
+      "bytes": 27645
+    },
+    "math.q.add_left_watermelon_5": {
+      "bytes": 29614
+    },
+    "math.q.add_right_banana_1": {
+      "bytes": 24277
+    },
+    "math.q.add_right_banana_2": {
+      "bytes": 25332
+    },
+    "math.q.add_right_banana_3": {
+      "bytes": 27009
+    },
+    "math.q.add_right_banana_4": {
+      "bytes": 25740
+    },
+    "math.q.add_right_banana_5": {
+      "bytes": 26508
+    },
+    "math.q.add_right_cherry_1": {
+      "bytes": 24409
+    },
+    "math.q.add_right_cherry_3": {
+      "bytes": 24227
+    },
+    "math.q.add_right_cherry_4": {
+      "bytes": 25193
+    },
+    "math.q.add_right_dragonfruit_1": {
+      "bytes": 29024
+    },
+    "math.q.add_right_dragonfruit_2": {
+      "bytes": 28634
+    },
+    "math.q.add_right_dragonfruit_5": {
+      "bytes": 31789
+    },
+    "math.q.add_right_grape_2": {
+      "bytes": 23300
+    },
+    "math.q.add_right_mango_1": {
+      "bytes": 23762
+    },
+    "math.q.add_right_mango_3": {
+      "bytes": 25988
+    },
+    "math.q.add_right_orange_1": {
+      "bytes": 22971
+    },
+    "math.q.add_right_orange_3": {
+      "bytes": 26227
+    },
+    "math.q.add_right_orange_4": {
+      "bytes": 25431
+    },
+    "math.q.add_right_pear_1": {
+      "bytes": 22521
+    },
+    "math.q.add_right_pear_2": {
+      "bytes": 23605
+    },
+    "math.q.add_right_pear_5": {
+      "bytes": 23827
+    },
+    "math.q.add_right_pineapple_3": {
+      "bytes": 27671
+    },
+    "math.q.add_right_pineapple_4": {
+      "bytes": 28686
+    },
+    "math.q.add_right_strawberry_1": {
+      "bytes": 28133
+    },
+    "math.q.add_right_strawberry_2": {
+      "bytes": 26524
+    },
+    "math.q.add_right_strawberry_3": {
+      "bytes": 28271
+    },
+    "math.q.add_right_strawberry_4": {
+      "bytes": 28999
+    },
+    "math.q.add_right_strawberry_5": {
+      "bytes": 27657
+    },
+    "math.q.add_right_watermelon_2": {
+      "bytes": 27203
+    },
+    "math.q.add_right_watermelon_3": {
+      "bytes": 26467
+    },
+    "math.q.add_right_watermelon_4": {
+      "bytes": 26934
+    },
+    "math.q.add_right_watermelon_5": {
+      "bytes": 30307
+    },
     "math.q.chicken_two_legs": {
       "bytes": 19161
     },
@@ -1885,6 +2155,15 @@
     "math.sort.l2.intro": {
       "bytes": 49626
     },
+    "math.teach.add_five": {
+      "bytes": 49775
+    },
+    "math.teach.add_three": {
+      "bytes": 22986
+    },
+    "math.teach.add_two": {
+      "bytes": 25872
+    },
     "math.teach.big": {
       "bytes": 31737
     },
@@ -1936,6 +2215,9 @@
     "math.teach.yellow": {
       "bytes": 29287
     },
+    "math.topic.add": {
+      "bytes": 7915
+    },
     "math.topic.cage": {
       "bytes": 16640
     },
@@ -1954,17 +2236,41 @@
     "math.word.animals": {
       "bytes": 11181
     },
+    "math.word.banana": {
+      "bytes": 10857
+    },
     "math.word.big": {
       "bytes": 8656
     },
     "math.word.blue": {
       "bytes": 8636
     },
+    "math.word.cherry": {
+      "bytes": 10718
+    },
     "math.word.circle": {
       "bytes": 10451
     },
+    "math.word.dragonfruit": {
+      "bytes": 14745
+    },
     "math.word.food": {
       "bytes": 9321
+    },
+    "math.word.grape": {
+      "bytes": 9005
+    },
+    "math.word.mango": {
+      "bytes": 10003
+    },
+    "math.word.orange": {
+      "bytes": 10206
+    },
+    "math.word.pear": {
+      "bytes": 8663
+    },
+    "math.word.pineapple": {
+      "bytes": 12334
     },
     "math.word.red": {
       "bytes": 8446
@@ -1972,8 +2278,14 @@
     "math.word.small": {
       "bytes": 8988
     },
+    "math.word.strawberry": {
+      "bytes": 13214
+    },
     "math.word.triangle": {
       "bytes": 11659
+    },
+    "math.word.watermelon": {
+      "bytes": 12152
     },
     "math.word.yellow": {
       "bytes": 8852
@@ -2437,6 +2749,9 @@
     "ui.btn.replay": {
       "bytes": 11998
     },
+    "ui.btn.skip": {
+      "bytes": 7453
+    },
     "ui.lesson.ready": {
       "bytes": 21283
     },
@@ -2445,6 +2760,9 @@
     },
     "ui.lesson.your_turn": {
       "bytes": 28212
+    },
+    "ui.level.word": {
+      "bytes": 6835
     },
     "ui.locked.topic": {
       "bytes": 20366
