@@ -1486,11 +1486,23 @@
       "title": "統一風格按鈕圖片（返回、上下頁、跳過、重聽等）",
       "files": [
         "img/ui/btn_back.webp",
+        "img/ui/btn_check.webp",
+        "img/ui/btn_gear.webp",
         "img/ui/btn_home.webp",
+        "img/ui/btn_music.webp",
+        "img/ui/btn_music_off.webp",
         "img/ui/btn_next.webp",
+        "img/ui/btn_pause.webp",
+        "img/ui/btn_play.webp",
         "img/ui/btn_prev.webp",
         "img/ui/btn_replay.webp",
-        "img/ui/btn_skip.webp"
+        "img/ui/btn_skip.webp",
+        "img/ui/ui_caption.webp",
+        "img/ui/ui_lock.webp",
+        "img/ui/ui_pill.webp",
+        "img/ui/ui_slider.webp",
+        "img/ui/ui_star.webp",
+        "img/ui/ui_star_empty.webp"
       ],
       "note": "出圖提示詞見 docs/出圖提示詞-連續出圖.md"
     },

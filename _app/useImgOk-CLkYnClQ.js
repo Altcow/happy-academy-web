@@ -1,1 +1,0 @@
-import{Z as e}from"./audio-BPCP1Gtl.js";var t=e({});function n(e){return`assets/img/`+e}function r(e){if(!(e in t)){t[e]=null;let r=new Image;r.onload=()=>{t[e]=!0},r.onerror=()=>{t[e]=!1},r.src=n(e)}return t[e]}export{n,r as t};
