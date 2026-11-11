@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T14:16:10+08:00",
+  "generatedAt": "2026-11-11T15:52:35+08:00",
   "files": {
     "adv.all.01.intro": {
       "bytes": 56016
@@ -1534,6 +1534,12 @@
     "map.space.name": {
       "bytes": 12655
     },
+    "map.story.intro": {
+      "bytes": 28468
+    },
+    "map.story.name": {
+      "bytes": 15098
+    },
     "map.zoo.intro": {
       "bytes": 33090
     },
@@ -2727,6 +2733,102 @@
     },
     "space.topic.tangram": {
       "bytes": 12050
+    },
+    "story.fox.p01": {
+      "bytes": 37956
+    },
+    "story.fox.p02": {
+      "bytes": 38012
+    },
+    "story.fox.p03": {
+      "bytes": 37408
+    },
+    "story.fox.p04": {
+      "bytes": 31023
+    },
+    "story.fox.p05": {
+      "bytes": 40955
+    },
+    "story.fox.p06": {
+      "bytes": 20514
+    },
+    "story.fox.p07": {
+      "bytes": 40438
+    },
+    "story.fox.p08": {
+      "bytes": 24716
+    },
+    "story.fox.title": {
+      "bytes": 17526
+    },
+    "story.hen.p01": {
+      "bytes": 23991
+    },
+    "story.hen.p02": {
+      "bytes": 32958
+    },
+    "story.hen.p03": {
+      "bytes": 55389
+    },
+    "story.hen.p04": {
+      "bytes": 53221
+    },
+    "story.hen.p05": {
+      "bytes": 48771
+    },
+    "story.hen.p06": {
+      "bytes": 31049
+    },
+    "story.hen.p07": {
+      "bytes": 44774
+    },
+    "story.hen.p08": {
+      "bytes": 26562
+    },
+    "story.hen.p09": {
+      "bytes": 33917
+    },
+    "story.hen.p10": {
+      "bytes": 62103
+    },
+    "story.hen.p11": {
+      "bytes": 51157
+    },
+    "story.hen.title": {
+      "bytes": 14653
+    },
+    "story.lion.p01": {
+      "bytes": 27175
+    },
+    "story.lion.p02": {
+      "bytes": 26723
+    },
+    "story.lion.p03": {
+      "bytes": 29555
+    },
+    "story.lion.p04": {
+      "bytes": 17907
+    },
+    "story.lion.p05": {
+      "bytes": 48526
+    },
+    "story.lion.p06": {
+      "bytes": 42153
+    },
+    "story.lion.p07": {
+      "bytes": 37896
+    },
+    "story.lion.p08": {
+      "bytes": 34688
+    },
+    "story.lion.p09": {
+      "bytes": 32972
+    },
+    "story.lion.p10": {
+      "bytes": 41328
+    },
+    "story.lion.title": {
+      "bytes": 16449
     },
     "ui.btn.back": {
       "bytes": 8071

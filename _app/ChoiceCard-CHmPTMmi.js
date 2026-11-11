@@ -1,1 +1,0 @@
-import{L as e,P as t,St as n,T as r,b as i,d as a}from"./audio-C_7A37xL.js";var o=a(r({__name:`ChoiceCard`,props:{state:{default:`normal`}},setup(r){return(a,o)=>(t(),i(`div`,{class:n([`choice-card`,`s-`+r.state])},[e(a.$slots,`default`,{},void 0,!0)],2))}}),[[`__scopeId`,`data-v-c84d4112`]]);export{o as t};
