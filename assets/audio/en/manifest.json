@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T18:51:43+08:00",
+  "generatedAt": "2026-11-11T13:24:17+08:00",
   "files": {
     "adv.all.01.intro": {
       "bytes": 56016
@@ -714,6 +714,21 @@
     },
     "adv.team.l2.intro": {
       "bytes": 49111
+    },
+    "adv.topic.all": {
+      "bytes": 12944
+    },
+    "adv.topic.long": {
+      "bytes": 12935
+    },
+    "adv.topic.magic": {
+      "bytes": 13366
+    },
+    "adv.topic.more": {
+      "bytes": 13483
+    },
+    "adv.topic.team": {
+      "bytes": 14561
     },
     "adv.word.bag": {
       "bytes": 9562
@@ -1538,10 +1553,10 @@
       "bytes": 14506
     },
     "math.cage.03.intro": {
-      "bytes": 60250
+      "bytes": 59181
     },
     "math.cage.03.title": {
-      "bytes": 13229
+      "bytes": 15174
     },
     "math.cage.04.intro": {
       "bytes": 55276
@@ -1568,10 +1583,10 @@
       "bytes": 17294
     },
     "math.cage.08.intro": {
-      "bytes": 53320
+      "bytes": 56257
     },
     "math.cage.08.title": {
-      "bytes": 13549
+      "bytes": 12915
     },
     "math.cage.09.intro": {
       "bytes": 52031
@@ -2430,6 +2445,9 @@
     },
     "ui.lesson.your_turn": {
       "bytes": 28212
+    },
+    "ui.locked.topic": {
+      "bytes": 20366
     },
     "ui.title.name": {
       "bytes": 16501
