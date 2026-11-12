@@ -1,0 +1,1 @@
+function e(e,n=Math.random,r=3,i=0,a=1/0){let o=[e];for(let t=1;o.length<r&&t<1e3;t+=1){let n=e-t,s=e+t;n>=i&&!o.includes(n)&&o.length<r&&o.push(n),s<=a&&!o.includes(s)&&o.length<r&&o.push(s)}return t(o,n)}function t(e,t=Math.random){let n=e.slice();for(let e=n.length-1;e>0;--e){let r=Math.floor(t()*(e+1)),i=n[e];n[e]=n[r],n[r]=i}return n}export{t as n,e as t};

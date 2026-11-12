@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T15:52:35+08:00",
+  "generatedAt": "2026-11-12T10:58:41+08:00",
   "files": {
     "adv.all.01.intro": {
       "bytes": 56016
@@ -1612,11 +1612,23 @@
     "math.cage.01.intro": {
       "bytes": 57264
     },
+    "math.cage.01.name": {
+      "bytes": 15574
+    },
+    "math.cage.01.open": {
+      "bytes": 77544
+    },
     "math.cage.01.title": {
       "bytes": 16067
     },
     "math.cage.02.intro": {
       "bytes": 64357
+    },
+    "math.cage.02.name": {
+      "bytes": 15831
+    },
+    "math.cage.02.open": {
+      "bytes": 68618
     },
     "math.cage.02.title": {
       "bytes": 14506
@@ -1624,11 +1636,23 @@
     "math.cage.03.intro": {
       "bytes": 59181
     },
+    "math.cage.03.name": {
+      "bytes": 14768
+    },
+    "math.cage.03.open": {
+      "bytes": 65408
+    },
     "math.cage.03.title": {
       "bytes": 15174
     },
     "math.cage.04.intro": {
       "bytes": 55276
+    },
+    "math.cage.04.name": {
+      "bytes": 15113
+    },
+    "math.cage.04.open": {
+      "bytes": 64027
     },
     "math.cage.04.title": {
       "bytes": 12175
@@ -1636,11 +1660,23 @@
     "math.cage.05.intro": {
       "bytes": 66106
     },
+    "math.cage.05.name": {
+      "bytes": 13779
+    },
+    "math.cage.05.open": {
+      "bytes": 64987
+    },
     "math.cage.05.title": {
       "bytes": 13927
     },
     "math.cage.06.intro": {
       "bytes": 60278
+    },
+    "math.cage.06.name": {
+      "bytes": 13185
+    },
+    "math.cage.06.open": {
+      "bytes": 64735
     },
     "math.cage.06.title": {
       "bytes": 13620
@@ -1648,11 +1684,23 @@
     "math.cage.07.intro": {
       "bytes": 63313
     },
+    "math.cage.07.name": {
+      "bytes": 13083
+    },
+    "math.cage.07.open": {
+      "bytes": 59665
+    },
     "math.cage.07.title": {
       "bytes": 17294
     },
     "math.cage.08.intro": {
       "bytes": 56257
+    },
+    "math.cage.08.name": {
+      "bytes": 12918
+    },
+    "math.cage.08.open": {
+      "bytes": 67041
     },
     "math.cage.08.title": {
       "bytes": 12915
@@ -1660,11 +1708,23 @@
     "math.cage.09.intro": {
       "bytes": 52031
     },
+    "math.cage.09.name": {
+      "bytes": 14057
+    },
+    "math.cage.09.open": {
+      "bytes": 93104
+    },
     "math.cage.09.title": {
       "bytes": 14347
     },
     "math.cage.10.intro": {
       "bytes": 59327
+    },
+    "math.cage.10.name": {
+      "bytes": 14633
+    },
+    "math.cage.10.open": {
+      "bytes": 76512
     },
     "math.cage.10.title": {
       "bytes": 14078
@@ -1755,6 +1815,9 @@
     },
     "math.count.l2.intro": {
       "bytes": 35519
+    },
+    "math.hint.cage_all_chickens": {
+      "bytes": 41013
     },
     "math.hint.legs_rule": {
       "bytes": 36684
@@ -2005,6 +2068,51 @@
     "math.q.add_right_watermelon_5": {
       "bytes": 30307
     },
+    "math.q.cage_four_legs": {
+      "bytes": 12985
+    },
+    "math.q.cage_hl_2_6": {
+      "bytes": 39780
+    },
+    "math.q.cage_hl_2_8": {
+      "bytes": 39331
+    },
+    "math.q.cage_hl_3_10": {
+      "bytes": 39408
+    },
+    "math.q.cage_hl_3_6": {
+      "bytes": 40234
+    },
+    "math.q.cage_hl_3_8": {
+      "bytes": 38496
+    },
+    "math.q.cage_hl_4_10": {
+      "bytes": 40369
+    },
+    "math.q.cage_rid_2_6_r": {
+      "bytes": 47373
+    },
+    "math.q.cage_rid_2_8_r": {
+      "bytes": 45897
+    },
+    "math.q.cage_rid_3_10_r": {
+      "bytes": 46679
+    },
+    "math.q.cage_rid_3_8_c": {
+      "bytes": 45913
+    },
+    "math.q.cage_rid_3_8_r": {
+      "bytes": 47508
+    },
+    "math.q.cage_rid_4_10_r": {
+      "bytes": 48052
+    },
+    "math.q.cage_tap_legs": {
+      "bytes": 53065
+    },
+    "math.q.cage_two_legs": {
+      "bytes": 11407
+    },
     "math.q.chicken_two_legs": {
       "bytes": 19161
     },
@@ -2044,8 +2152,14 @@
     "math.q.how_many_animals": {
       "bytes": 16685
     },
+    "math.q.how_many_chickens": {
+      "bytes": 14436
+    },
     "math.q.how_many_legs": {
       "bytes": 14136
+    },
+    "math.q.how_many_rabbits": {
+      "bytes": 15562
     },
     "math.q.look_in_cage": {
       "bytes": 17355
