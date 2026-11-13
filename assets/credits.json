@@ -1394,6 +1394,52 @@
       "addedAt": "2026-11-10"
     },
     {
+      "id": "voice-en-ftm",
+      "type": "voice",
+      "title": "英文單音素語音 phx.sh/ch/long_e（Feed the Monster）",
+      "author": "Curious Learning（Feed the Monster 英文語音包）",
+      "source": "https://github.com/curiouslearning/ftm-languagepacks",
+      "license": "語音包倉庫標示 BSD-2-Clause；主倉庫數位內容標示 CC BY 4.0；音檔授權未向原作者確認",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "files": [
+        "audio/en/phx.sh.m4a",
+        "audio/en/phx.ch.m4a",
+        "audio/en/phx.long_e.m4a"
+      ],
+      "note": "下載日期 2026-11-13；去頭尾靜音、音量正規化後轉 m4a。家庭使用；若對外散布需先確認授權並標示 Curious Learning",
+      "addedAt": "2026-11-10"
+    },
+    {
+      "id": "voice-en-wikimedia-ipa",
+      "type": "voice",
+      "title": "英文單音素語音 phx.ng/oo_long/oo_short（Wikimedia Commons IPA 示範）",
+      "author": "Peter Isotalo（Velar nasal.ogg）、Denelson83（Close back rounded vowel.ogg、Near-close near-back rounded vowel.ogg）",
+      "source": "https://commons.wikimedia.org/wiki/Category:Audio_files_of_phonetic_samples",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "files": [
+        "audio/en/phx.ng.m4a",
+        "audio/en/phx.oo_long.m4a",
+        "audio/en/phx.oo_short.m4a"
+      ],
+      "note": "下載日期 2026-11-13；ng 由 [aŋa] 切出中間輔音，其餘去靜音；改作須以相同授權分享",
+      "addedAt": "2026-11-10"
+    },
+    {
+      "id": "voice-en-linguallibre",
+      "type": "voice",
+      "title": "英文雙元音語音 phx.ow（Lingua Libre）",
+      "author": "Pvanp7（Lingua Libre，aʊ diphthong）",
+      "source": "https://commons.wikimedia.org/wiki/File:LL-Q1860_(eng)-Pvanp7-aʊ_(diphthong).wav",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "files": [
+        "audio/en/phx.ow.m4a"
+      ],
+      "note": "下載日期 2026-11-13",
+      "addedAt": "2026-11-10"
+    },
+    {
       "id": "font-andika",
       "type": "font",
       "title": "Andika",
