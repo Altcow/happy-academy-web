@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T12:14:28+08:00",
+  "generatedAt": "2026-11-13T13:26:48+08:00",
   "files": {
     "adv.all.01.intro": {
       "bytes": 56016
@@ -2855,7 +2855,7 @@
       "bytes": 38012
     },
     "story.fox.p03": {
-      "bytes": 37408
+      "bytes": 25554
     },
     "story.fox.p04": {
       "bytes": 31023
@@ -2885,16 +2885,16 @@
       "bytes": 55389
     },
     "story.hen.p04": {
-      "bytes": 53221
+      "bytes": 32209
     },
     "story.hen.p05": {
-      "bytes": 48771
+      "bytes": 23326
     },
     "story.hen.p06": {
       "bytes": 31049
     },
     "story.hen.p07": {
-      "bytes": 44774
+      "bytes": 21985
     },
     "story.hen.p08": {
       "bytes": 26562
@@ -2903,10 +2903,10 @@
       "bytes": 33917
     },
     "story.hen.p10": {
-      "bytes": 62103
+      "bytes": 46620
     },
     "story.hen.p11": {
-      "bytes": 51157
+      "bytes": 40658
     },
     "story.hen.title": {
       "bytes": 14653
@@ -2918,7 +2918,7 @@
       "bytes": 26723
     },
     "story.lion.p03": {
-      "bytes": 29555
+      "bytes": 28794
     },
     "story.lion.p04": {
       "bytes": 17907
@@ -2927,7 +2927,7 @@
       "bytes": 48526
     },
     "story.lion.p06": {
-      "bytes": 42153
+      "bytes": 27704
     },
     "story.lion.p07": {
       "bytes": 37896
@@ -2939,7 +2939,7 @@
       "bytes": 32972
     },
     "story.lion.p10": {
-      "bytes": 41328
+      "bytes": 31131
     },
     "story.lion.title": {
       "bytes": 16449
