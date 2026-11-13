@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T13:26:48+08:00",
+  "generatedAt": "2026-11-13T16:30:28+08:00",
   "files": {
     "adv.all.01.intro": {
       "bytes": 56016
@@ -2470,8 +2470,77 @@
     "num.9": {
       "bytes": 8653
     },
+    "phx.a": {
+      "bytes": 6043
+    },
+    "phx.b": {
+      "bytes": 4127
+    },
+    "phx.d": {
+      "bytes": 3388
+    },
+    "phx.e": {
+      "bytes": 5316
+    },
+    "phx.f": {
+      "bytes": 7603
+    },
+    "phx.g": {
+      "bytes": 5243
+    },
+    "phx.h": {
+      "bytes": 4541
+    },
+    "phx.i": {
+      "bytes": 4163
+    },
+    "phx.j": {
+      "bytes": 4393
+    },
+    "phx.k": {
+      "bytes": 3903
+    },
+    "phx.l": {
+      "bytes": 9230
+    },
+    "phx.m": {
+      "bytes": 8422
+    },
+    "phx.n": {
+      "bytes": 8716
+    },
+    "phx.o": {
+      "bytes": 5515
+    },
+    "phx.p": {
+      "bytes": 3311
+    },
+    "phx.r": {
+      "bytes": 8524
+    },
+    "phx.s": {
+      "bytes": 7901
+    },
     "phx.t": {
-      "bytes": 2084
+      "bytes": 3959
+    },
+    "phx.u": {
+      "bytes": 4938
+    },
+    "phx.v": {
+      "bytes": 9136
+    },
+    "phx.w": {
+      "bytes": 4665
+    },
+    "phx.x": {
+      "bytes": 8589
+    },
+    "phx.y": {
+      "bytes": 3811
+    },
+    "phx.z": {
+      "bytes": 9919
     },
     "space.done.arrow": {
       "bytes": 13995
