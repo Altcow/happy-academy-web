@@ -1,0 +1,1 @@
+import{D as e,ft as t,h as n,t as r,u as i,w as a}from"./_plugin-vue_export-helper-CNx7tKsp.js";var o=r(n({__name:`ChoiceCard`,props:{state:{default:`normal`}},setup(n){return(r,o)=>(a(),i(`div`,{class:t([`choice-card`,`s-`+n.state])},[e(r.$slots,`default`,{},void 0,!0)],2))}}),[[`__scopeId`,`data-v-c84d4112`]]);export{o as t};

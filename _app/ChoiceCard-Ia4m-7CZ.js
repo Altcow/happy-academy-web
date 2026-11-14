@@ -1,1 +1,0 @@
-import{Ct as e,E as t,F as n,R as r,f as i,x as a}from"./audio-BPCP1Gtl.js";var o=i(t({__name:`ChoiceCard`,props:{state:{default:`normal`}},setup(t){return(i,o)=>(n(),a(`div`,{class:e([`choice-card`,`s-`+t.state])},[r(i.$slots,`default`,{},void 0,!0)],2))}}),[[`__scopeId`,`data-v-c84d4112`]]);export{o as t};
